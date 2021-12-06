@@ -1,4 +1,5 @@
-# Hollywood Movies Visualizations and Recommender System
+# OTT Platform Analysis and recommendor System 
+
 
 ## Introduction
 <p align = "justify">
