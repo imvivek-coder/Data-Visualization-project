@@ -10,7 +10,7 @@
 
 ## Data
 <p align = "justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data has been scraped from the publicly available website https://www.imdb.com. All the movies with more than 100 votes have been scraped as of 01/01/2020.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data has been scraped from the publicly available website https://www.imdb.com. All the movies with more than 100 votes have been scraped.
  <br></br>
  
 -	The movies dataset includes 85,855 movies with attributes such as movie description, average rating, number of votes, genre, etc.
