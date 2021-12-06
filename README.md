@@ -1,5 +1,5 @@
 # OTT Platform Analysis and recommendor System 
-##Vivek Sharma,Nitesh Kumar,Ratnesh Kumar Maurya
+## Vivek Sharma,Nitesh Kumar,Ratnesh Kumar Maurya
 
 ## Introduction
 <p align = "justify">
